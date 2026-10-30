@@ -1,1 +1,28 @@
-# zorvanta-group
+# Zorvanta Group
+
+**Think Beyond Borders.** 🌍
+
+Zorvanta Group is a Somali-founded business group built on integrity, innovation and excellence. We start with smart accounting and finance solutions for growing businesses in Somalia, and we dream of reaching the world.
+
+## Our Vision
+To be a global business group recognized for innovation, excellence and sustainable growth.
+
+## Our Mission
+To provide innovative business solutions that create value, opportunities and lasting impact for our customers and communities.
+
+## Our Values
+- **Integrity** – Daacadnimo
+- **Innovation** – Hal-abuur
+- **Excellence** – Tayo sare
+- **Trust** – Kalsooni
+- **Opportunity** – Fursad
+
+## What We Do
+- **Zorvanta Finance** – bookkeeping, accounting and financial advice for small businesses
+- Coming soon: Zorvanta Tech, Zorvanta Trade, Zorvanta Property
+
+## Founder
+Founded by Wafa – future accountant and entrepreneur. 🇸🇴
+
+---
+*Somali-founded. Globally focused.*# zorvanta-group
